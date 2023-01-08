@@ -17,4 +17,4 @@ Module 6: Data Management Using SQL Coding Techniques
 
 Module 7: Database design and project Tableau vs Power BI Data Visualisation
 
-Module 8: Project Presentations
+Module 8: Project Presentations - see files ND_Holiday_Lodges_Part_1.sql (structure of DB and tables), ND_Holiday_Lodges_Tasks.sql (examples of queries performed) and ND_SQL_Project.pptx (description of database and ER diagram) for details
