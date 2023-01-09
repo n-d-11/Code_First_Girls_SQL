@@ -1,5 +1,4 @@
-# Code_First_Girls_SQL
-Final project for Code First Girls Data &amp; SQL Course
+Final project for CFG SQL course:
 
 8 week course included the following modules:
 
